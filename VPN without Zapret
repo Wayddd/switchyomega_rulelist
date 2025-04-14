@@ -1,0 +1,61 @@
+; Summary: Rule List for Switchy
+
+; Author: Jacuboffsky (https://github.com/jacuboffsky)
+
+; Date: 2024-08-12
+
+; URL: https://raw.githubusercontent.com/jacuboffsky/switchy-rule-lists/main/main-list.txt
+
+; https://github.com/jacuboffsky/switchy-rule-lists/
+
+
+#BEGIN
+
+[Wildcard]
+
+; Sitelist
+*://*.thepiratebay.org/*
+*://*.rutracker.org/*
+*://*.rutor.is/*
+*://*.pornolab.net/*
+*://*.line.me/*
+*://*.twitter.com/*
+*://*.twimg.com/*
+*://*.t.co/*
+*://*.line.naver.jp/*
+*://*.bbc.com/*
+*://*.bbci.co.uk/*
+*://*.facebook.com/*
+*://*.fbcdn.net/*
+*://*.lostfilm/*
+*://*.grammarly.com/*
+*://*.youtube.com/*
+*://*.gstatic.com/*
+*://*.twimg.com/*
+*://*.instagram.com/*
+*://*.rutracker.cc/*
+*://*.spotify.com/*
+*://*.facebook.com/*
+*://*.tidal.com/*
+*://*.googlevideo.com/*
+*://*.tidal.com/*
+*://*.x.com/*
+*://*.rutracker.org/*
+
+
+[RegExp]
+
+; sitelist
+instagram
+linkedin
+mailfence
+payoneer
+protonmail
+tutanota
+hashvault
+torproject
+upwork
+circleci
+
+
+#END
