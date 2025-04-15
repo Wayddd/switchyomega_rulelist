@@ -32,6 +32,10 @@
 *://*.youtube.com/*
 *://*.youtu.be/*
 *://*.gstatic.com/*
+*://*.googlevideo.com/*
+*://*.ggpht.com/*
+*://*.youtube-nocookie.com/*
+*://*.ytimg.com/*
 *://*.twimg.com/*
 *://*.instagram.com/*
 *://*.rutracker.cc/*
