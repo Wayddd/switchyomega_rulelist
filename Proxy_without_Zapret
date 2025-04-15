@@ -30,6 +30,7 @@
 *://*.lostfilm/*
 *://*.grammarly.com/*
 *://*.youtube.com/*
+*://*.youtu.be/*
 *://*.gstatic.com/*
 *://*.twimg.com/*
 *://*.instagram.com/*
@@ -56,6 +57,7 @@ hashvault
 torproject
 upwork
 circleci
+youtube
 
 
 #END
