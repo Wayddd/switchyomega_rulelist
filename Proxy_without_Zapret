@@ -46,6 +46,7 @@
 *://*.tidal.com/*
 *://*.x.com/*
 *://*.rutracker.org/*
+*://*.chatgpt.com/*
 
 
 [RegExp]
@@ -62,6 +63,10 @@ torproject
 upwork
 circleci
 youtube
+chatgpt
+claude
+anthropic
+sora
 
 
 #END
