@@ -39,7 +39,11 @@
 *://*.tidal.com/*
 *://*.x.com/*
 *://*.rutracker.org/*
-
+*://*.chatgpt.com/*
+*://*.sora.com/*
+*://*.claude.ai*
+*://*.anthropic.com/*
+*://*.gemini.google.com/*
 
 [RegExp]
 
