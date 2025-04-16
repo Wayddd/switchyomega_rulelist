@@ -44,6 +44,7 @@
 *://*.claude.ai*
 *://*.anthropic.com/*
 *://*.gemini.google.com/*
+*://*.commishes.com/*
 
 [RegExp]
 
