@@ -138,6 +138,8 @@
 *://*.irc-ws-r.chat.twitch.tv/*
 *://*.chatdepot.twitch.tv/*
 
+*://*.anilib.me/*
+
 
 [RegExp]
 
